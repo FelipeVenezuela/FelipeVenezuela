@@ -1,4 +1,4 @@
-## Opa, eu sou o Felipe Venezuela do Nascimento
+## Oi, eu sou o Felipe Venezuela do Nascimento
 
 - 🔭 Trabalhando atualmente na area de Suporte Técnico de TI na Empresa BITTI Informática TLDA
 - 🌱 Estudando Atualmente Ciências da Computação na Universidade São Judas Tadeu
