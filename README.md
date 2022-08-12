@@ -3,11 +3,7 @@
 - 🔭 Trabalhando atualmente com 
 - 🌱 Estudando 
 
-<div>
-  <a href="https://github.com/Danilo-Miguel">
-  <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=Danilo-Miguel&show_icons=true&theme=compact " />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Miguel&layout=compact" />
-</div>
+
 
   <div style="display: inline_block"><br>
     <p align="center"><a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img
