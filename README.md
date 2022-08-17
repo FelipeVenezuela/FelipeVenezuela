@@ -1,8 +1,8 @@
 ## Oi, eu sou o Felipe Venezuela do Nascimento
 
 - 👔 Trabalhando atualmente na area de Suporte Técnico de TI na Empresa BITTI Informática TLDA.
-- 📚 Cursando Atualmente Ciências da Computação na Universidade São Judas Tadeu.
-- 💻 Atualmente estudando ADVPL, Python, Java e JavaScript.
+- 📚 Cursando Ciências da Computação na Universidade São Judas Tadeu.
+- 💻 Atualmente Estudando ADVPL, Python, Java e JavaScript.
   
   <div> 
     <a href="https://www.instagram.com/felipeveneza/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
