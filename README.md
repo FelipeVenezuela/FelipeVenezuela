@@ -1,6 +1,6 @@
 ## Oi, eu sou o Felipe Venezuela do Nascimento
 
-- 👔 Trabalhando atualmente na area de Suporte Técnico de TI na Empresa BITTI Informática TLDA.
+- 👔 Trabalhando atualmente na area de Suporte Técnico de TI na Empresa BITTI Informática LTDA.
 - 📚 Cursando Ciências da Computação na Universidade São Judas Tadeu.
 - 💻 Atualmente Estudando ADVPL, Python, Java e JavaScript.
   
