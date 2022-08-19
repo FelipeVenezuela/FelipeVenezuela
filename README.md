@@ -1,20 +1,21 @@
 ## Oi, eu sou o Felipe Venezuela do Nascimento
 
-<div align="center">
- 👔 Trabalhando atualmente na area de Suporte Técnico de TI na Empresa BITTI Informática LTDA.
+<div>
+<div align="left">
+- 👔 Trabalhando atualmente na area de Suporte Técnico de TI na Empresa BITTI Informática LTDA.
 </div>
-<div align="center">
-   📚 Cursando Ciências da Computação na Universidade São Judas Tadeu.
+<div align="left">
+- 📚 Cursando Ciências da Computação na Universidade São Judas Tadeu.
 </div>
-<div align="center">
-💻 Atualmente Estudando ADVPL, Python, Java e JavaScript.
+<div align="left">
+- 💻 Atualmente Estudando ADVPL, Python, Java e JavaScript.
 </div>
-  
+
 ##
 
 <div align="center">
   <a href="https://github.com/FelipeVenezuela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeVenezuela&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeVenezuela&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   <div align="center" style="display: inline_block">
   <img alt="Felipe-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
@@ -25,11 +26,7 @@
 
 ##
  
-<div align="center">
- 📲 Contatos
-</div>
-
-  <div align="center"></br>
+  <div align="left"></br>
     <a href="https://www.instagram.com/felipeveneza/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/felipe-venezuela-196657232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
