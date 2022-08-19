@@ -6,6 +6,9 @@
   
   <div align="Right">
   <a href="https://github.com/FelipeVenezuela">
+    - 👔 Trabalhando atualmente na area de Suporte Técnico de TI na Empresa BITTI Informática LTDA.
+    - 📚 Cursando Ciências da Computação na Universidade São Judas Tadeu.
+    - 💻 Atualmente Estudando ADVPL, Python, Java e JavaScript. 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeVenezuela&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   <div> 
