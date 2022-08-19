@@ -4,7 +4,7 @@
 - 📚 Cursando Ciências da Computação na Universidade São Judas Tadeu.
 - 💻 Atualmente Estudando ADVPL, Python, Java e JavaScript.
   
-  <div align="Left">
+  <div align="Right">
   <a href="https://github.com/FelipeVenezuela">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
