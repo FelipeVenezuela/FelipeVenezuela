@@ -2,7 +2,7 @@
 
 <div>
 <div align="left">
-- 👔 Experiencia na area de Suporte Técnico de TI na Empresa BITTI Informática LTDA.
+- 👔 Experiencia na area de Suporte Técnico de TI.
 </div>
 <div align="left">
 - 📚 Cursando Ciências da Computação na Universidade São Judas Tadeu.
@@ -14,7 +14,7 @@
 ### Hi, I'm Felipe Venezuela do Nascimento
 <div>
 <div align="left">
-- 👔 Experenci at IT Technical Support area at BITTI Informática LTDA
+- 👔 Experency at IT Technical Support area.
 </div>
 <div align="left">
 - 📚 Studying Computer Science at São Judas Tadeu University.
