@@ -8,7 +8,7 @@
 - 📚 Cursando Ciências da Computação na Universidade São Judas Tadeu.
 </div>
 <div align="left">
-- 💻 Atualmente estudando ADVPL, MySQL, Python, Java, JavaScript e PHP.
+- 💻 Atualmente estudando ADVPL/TL++, MySQL, Python, Java, JavaScript e PHP.
 </div>
 
 ### Hi, I'm Felipe Venezuela do Nascimento
@@ -20,7 +20,7 @@
 - 📚 Studying Computer Science at São Judas Tadeu University.
 </div>
 <div align="left">
-- 💻 Currently Studying ADVPL, MySQL, Python, Java, JavaScript and PHP.
+- 💻 Currently Studying ADVPL/TL++, MySQL, Python, Java, JavaScript and PHP.
 </div>
 
   ##
