@@ -2,7 +2,7 @@
 
 <div>
 <div align="left">
-- 👔 Experiencia na area de Suporte Técnico de TI.
+- 👔 Técnico em Suporte em ERP na empresa TOTVS - Sudeste Meridional/Unidade Serra do Mar.
 </div>
 <div align="left">
 - 📚 Cursando Ciências da Computação na Universidade São Judas Tadeu.
@@ -14,7 +14,7 @@
 ### Hi, I'm Felipe Venezuela do Nascimento
 <div>
 <div align="left">
-- 👔 Experency at IT Technical Support area.
+- 👔 ERP technical support at TOTVS - Sudeste Meridional/Serra do Mar unity. 
 </div>
 <div align="left">
 - 📚 Studying Computer Science at São Judas Tadeu University.
