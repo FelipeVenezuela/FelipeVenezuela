@@ -26,7 +26,7 @@
   ##
   
   <div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeVenezuela&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https:/felipe-venezuela-tx2m.vercel.app/api/top-langs/?username=FelipeVenezuela&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   <div align="left" style="display: inline_block">
   <img alt="Felipe-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
@@ -42,5 +42,5 @@
   <div align="left">
     <a href="https://www.instagram.com/felipeveneza/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/felipe-venezuela-196657232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+  <a href = "mailto:venezuelafelipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
