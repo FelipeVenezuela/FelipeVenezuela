@@ -26,7 +26,6 @@
   ##
   
   <div align="left">
-  <img height="150em" src="https:/felipe-venezuela-tx2m.vercel.app/api/top-langs/?username=FelipeVenezuela&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   <div align="left" style="display: inline_block">
   <img alt="Felipe-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
