@@ -14,7 +14,7 @@
 ### Hii, I'm Felipe Venezuela do Nascimento
 <div>
 <div align="left">
-- 👔 Working with Software Analyst Jr at TOTVS.
+- 👔 Working with Junior Software Analyst at TOTVS.
 </div>
 <div align="left">
 - 📚 Studying Computer Science at São Judas Tadeu University.
