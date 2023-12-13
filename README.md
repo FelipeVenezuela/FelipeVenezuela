@@ -23,8 +23,6 @@
 - 💻 Currently Studying ADVPL/TL++, SQL, JavaScript, Python and Java.
 </div>
 
-  ##
-  
   <div align="left">
 </div>
   <div align="left" style="display: inline_block">
