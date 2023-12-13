@@ -23,12 +23,6 @@
 - 💻 Currently Studying ADVPL/TL++, SQL, JavaScript, Python and Java.
 </div>
 
-##
-
-<div>
-  	<div src="https://github-readme-stats.vercel.app/api/top-langs/?username={FelipeVenezuela}&theme=blue-green" >
-    </div>
-</div>
   ##
   
   <div align="left">
