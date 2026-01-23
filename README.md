@@ -2,7 +2,7 @@
 
 <div>
 <div align="left">
-- 👔 Trabalhando como Analista de Sistemas Jr na empresa TOTVS.
+- 👔 Trabalhando como Desenvolvedo Pleno na empresa TOTVS.
 </div>
 <div align="left">
 - 📚 Cursando Ciências da Computação na Universidade São Judas Tadeu.
@@ -14,7 +14,7 @@
 ### Hii, I'm Felipe Venezuela do Nascimento
 <div>
 <div align="left">
-- 👔 Working with Junior System Analyst at TOTVS.
+- 👔 Working with full dev at TOTVS.
 </div>
 <div align="left">
 - 📚 Studying Computer Science at São Judas Tadeu University.
