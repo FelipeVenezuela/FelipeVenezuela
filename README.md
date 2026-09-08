@@ -71,26 +71,6 @@ Vim do suporte e da infra — depuro ambiente e banco tão rápido quanto códig
 
 ---
 
-## 🔌 O que eu construo
-
-```mermaid
-flowchart LR
-    CRM[CRM]:::ext -->|REST| ERP
-    WPP[WhatsApp]:::ext -->|REST| ERP
-    BCO[Extratos OFX]:::ext --> ERP
-    GOV[eSocial · CT-e]:::ext --> ERP
-    ERP{{TOTVS Protheus<br/>AdvPL · TLPP}}:::core --> FIN[Financeiro]:::mod
-    ERP --> FAT[Faturamento]:::mod
-    ERP --> FIS[Fiscal]:::mod
-    ERP --> WEB[Apps PO-UI<br/>Node.js]:::mod
-
-    classDef core fill:#0C4A6E,stroke:#2F81F7,stroke-width:2px,color:#fff
-    classDef ext fill:#161B22,stroke:#30363D,color:#8B949E
-    classDef mod fill:#0D419D,stroke:#2F81F7,color:#fff
-```
-
----
-
 ## 📊 GitHub
 
 <div align="center">
