@@ -75,14 +75,18 @@ Vim do suporte e da infra — depuro ambiente e banco tão rápido quanto códig
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeVenezuela&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7&text_color=768390&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeVenezuela&layout=compact&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=768390&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeVenezuela&theme=transparent" width="100%" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=FelipeVenezuela&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=768390&dates=768390&currStreakNum=768390&sideNums=768390" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipeVenezuela&theme=transparent" />
+<img height="190" src="https://streak-stats.demolab.com?user=FelipeVenezuela&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=768390&dates=768390&currStreakNum=768390&sideNums=768390" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeVenezuela&bg_color=00000000&color=768390&line=2F81F7&point=2F81F7&area=true&hide_border=true" width="100%" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeVenezuela&theme=transparent" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeVenezuela&theme=transparent" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FelipeVenezuela&theme=transparent&utcOffset=-3" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=FelipeVenezuela&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" />
+<br><br>
+
+<img src="https://ghchart.rshah.org/2F81F7/FelipeVenezuela" width="94%" alt="Gráfico de contribuições" />
 
 </div>
 
@@ -90,7 +94,9 @@ Vim do suporte e da infra — depuro ambiente e banco tão rápido quanto códig
 
 <div align="center">
 
+<!-- Descomente DEPOIS de rodar a Action .github/workflows/snake.yml uma vez:
 <img src="https://raw.githubusercontent.com/FelipeVenezuela/FelipeVenezuela/output/snake.svg" width="100%" alt="snake" />
+-->
 
 <sub>A maior parte do que eu escrevo é código de cliente e vive em repositório privado —<br>este perfil mostra menos do que o trabalho real.</sub>
 
