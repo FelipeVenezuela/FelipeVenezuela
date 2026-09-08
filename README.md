@@ -1,102 +1,119 @@
-# Felipe Venezuela do Nascimento
+<div align="center">
 
-**Desenvolvedor TOTVS Protheus** — AdvPL, TLPP e PO-UI. Santo André, SP.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C4A6E,100:2F81F7&height=180&section=header&text=Felipe%20Venezuela&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=TOTVS%20Protheus%20%7C%20AdvPL%20%C2%B7%20TLPP%20%C2%B7%20PO-UI&descAlignY=54&descSize=16" width="100%" />
 
-Trabalho numa unidade que atende vários clientes ao mesmo tempo, cada um com regra de negócio,
-ambiente e prazo próprios. No fim, o trabalho é sempre o mesmo: transformar dor operacional em
-rotina rodando em produção — o financeiro que fecha o dia mais cedo, o comercial que não perde
-follow-up, o fiscal que para de digitar nota a nota.
+<a href="https://www.linkedin.com/in/felipe-venezuela/">
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=620&lines=Desenvolvedor+TOTVS+Protheus;AdvPL+%E2%80%A2+TLPP+%E2%80%A2+PO-UI+%E2%80%A2+Node.js;Integra%C3%A7%C3%B5es+e+APIs+REST+no+ERP;Fa%C3%A7o+o+Protheus+conversar+com+o+mundo+l%C3%A1+fora" alt="Typing SVG" />
+</a>
 
-Comecei em suporte e infraestrutura, o que me deixou o hábito de depurar ambiente e banco tão
-rápido quanto código.
+<br>
 
----
+**Santo André, SP** &nbsp;·&nbsp; ERP, integrações e ferramentas web em cima do Protheus
+<br>
+Vim do suporte e da infra — depuro ambiente e banco tão rápido quanto código.
 
-## O que eu construo
+<br>
 
-**Customizações Protheus**
-Rotinas, pontos de entrada, ExecAuto, MVC e dicionário de dados nos módulos de financeiro,
-faturamento, estoque, fiscal e folha. Processo de GMUD do levantamento à homologação.
+![Profile views](https://komarev.com/ghpvc/?username=FelipeVenezuela&style=flat-square&color=2F81F7&label=visitas+no+perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-venezuela/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:peehds@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
 
-**Integrações e APIs**
-Web services REST próprios ligando o ERP ao mundo de fora — CRM, WhatsApp, extratos bancários
-em OFX, eSocial e XML/CT-e. De preferência não bloqueantes, com log e reprocessamento.
-
-**Web sobre o ERP**
-Ferramentas internas em PO-UI e Node.js: aplicativos `.app` na plataforma TOTVS e consoles de
-consulta ao banco em modo somente leitura, para tirar do time o acesso direto à produção.
-
-**IA no ciclo de desenvolvimento**
-Uso agentes de código no dia a dia e mantenho um conjunto próprio de regras que coloca os
-padrões de AdvPL/TLPP, encoding, SQL e os gates de revisão do time dentro do fluxo de trabalho.
+</div>
 
 ---
 
-## Stack
+## 🛠️ Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**ERP · TOTVS**
 
 ![AdvPL](https://img.shields.io/badge/AdvPL-0C4A6E?style=flat-square)
 ![TLPP](https://img.shields.io/badge/TLPP-0C4A6E?style=flat-square)
-![TOTVS Protheus](https://img.shields.io/badge/TOTVS%20Protheus-0C4A6E?style=flat-square)
+![Protheus](https://img.shields.io/badge/Protheus-0C4A6E?style=flat-square)
 ![PO-UI](https://img.shields.io/badge/PO--UI-0C4A6E?style=flat-square)
+![ExecAuto](https://img.shields.io/badge/ExecAuto-0C4A6E?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC-0C4A6E?style=flat-square)
+![GMUD](https://img.shields.io/badge/GMUD-0C4A6E?style=flat-square)
+
+</td>
+<td valign="top" width="33%">
+
+**Web · Mobile**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Dados · Ferramentas**
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20%2F%20JSON-6DB33F?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Além do código
+## 🔌 O que eu construo
 
-- Bacharelado em Ciência da Computação — Universidade São Judas Tadeu, conclusão prevista em 2026
-- Inglês B2 — Michigan English Test (MET)
-- Boa parte do que eu escrevo é código de cliente e vive em repositório privado, então este perfil
-  mostra menos do que o trabalho real. Se quiser conversar sobre algum desses temas, é só chamar.
+```mermaid
+flowchart LR
+    CRM[CRM]:::ext -->|REST| ERP
+    WPP[WhatsApp]:::ext -->|REST| ERP
+    BCO[Extratos OFX]:::ext --> ERP
+    GOV[eSocial · CT-e]:::ext --> ERP
+    ERP{{TOTVS Protheus<br/>AdvPL · TLPP}}:::core --> FIN[Financeiro]:::mod
+    ERP --> FAT[Faturamento]:::mod
+    ERP --> FIS[Fiscal]:::mod
+    ERP --> WEB[Apps PO-UI<br/>Node.js]:::mod
 
----
-
-<details>
-<summary><b>English</b></summary>
-
-<br>
-
-**TOTVS Protheus developer** — AdvPL, TLPP and PO-UI. Based in Santo André, Brazil.
-
-I work at a unit that serves several clients at once, each with its own business rules, environment
-and deadlines. The job is always the same: turning operational pain into software running in
-production — finance closing the day earlier, sales not dropping follow-ups, tax teams no longer
-typing invoices one by one.
-
-I started in IT support and infrastructure, which left me with the habit of debugging environments
-and databases as fast as I debug code.
-
-**What I build**
-
-- **Protheus customizations** — routines, entry points, ExecAuto, MVC and data dictionary across
-  finance, billing, inventory, tax and payroll modules, with a full change-management process.
-- **Integrations and APIs** — custom REST web services connecting the ERP to CRM, WhatsApp, bank
-  statements (OFX), eSocial and electronic invoices, preferably non-blocking and with retry logs.
-- **Web on top of the ERP** — internal tools in PO-UI and Node.js: TOTVS platform `.app` packages
-  and read-only database consoles, so the team stops touching production directly.
-- **AI in the development loop** — I work with coding agents daily and maintain my own rule set
-  that puts AdvPL/TLPP standards, encoding, SQL and review gates inside the workflow.
-
-Computer Science at Universidade São Judas Tadeu (expected 2026). English B2 (MET).
-Most of what I write is client code living in private repositories, so this profile shows less
-than the actual work.
-
-</details>
+    classDef core fill:#0C4A6E,stroke:#2F81F7,stroke-width:2px,color:#fff
+    classDef ext fill:#161B22,stroke:#30363D,color:#8B949E
+    classDef mod fill:#0D419D,stroke:#2F81F7,color:#fff
+```
 
 ---
 
-## Contato
+## 📊 GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-venezuela/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:peehds@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeVenezuela&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7&text_color=768390&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeVenezuela&layout=compact&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=768390&langs_count=8" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=FelipeVenezuela&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideLabels=768390&dates=768390&currStreakNum=768390&sideNums=768390" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeVenezuela&bg_color=00000000&color=768390&line=2F81F7&point=2F81F7&area=true&hide_border=true" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=FelipeVenezuela&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/FelipeVenezuela/FelipeVenezuela/output/snake.svg" width="100%" alt="snake" />
+
+<sub>A maior parte do que eu escrevo é código de cliente e vive em repositório privado —<br>este perfil mostra menos do que o trabalho real.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0C4A6E&height=110&section=footer" width="100%" />
+
+</div>
