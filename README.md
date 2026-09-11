@@ -8,9 +8,9 @@
 
 <br>
 
-**Santo André, SP** &nbsp;·&nbsp; TOTVS Protheus: AdvPL, TLPP e SQL Server
+**Santo André, SP** &nbsp;·&nbsp; TOTVS Protheus: AdvPL, PO-UI, TLPP e SQL Server
 <br>
-Integrações e APIs REST: RD CRM / Conversas /  Marketing, n8n, WhatsApp e bancos |  PO-UI, Node.js
+Integrações e APIs REST: RD CRM/Conversas/Marketing, n8n, WhatsApp e Bancos |  Angular, Node e React
 
 <br>
 
