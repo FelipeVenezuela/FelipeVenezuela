@@ -8,9 +8,9 @@
 
 <br>
 
-**Santo André, SP** &nbsp;·&nbsp; ERP, integrações e ferramentas web em cima do Protheus
+**Santo André, SP** &nbsp;·&nbsp; TOTVS Protheus: AdvPL, TLPP e SQL Server
 <br>
-Vim do suporte e da infra — depuro ambiente e banco tão rápido quanto código.
+Integrações e APIs REST: RD CRM / Conversas /  Marketing, n8n, WhatsApp e bancos |  PO-UI, Node.js
 
 <br>
 
